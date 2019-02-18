@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AarModule</string>
+    <string name="correct">Deu certo em</string>
 </resources>
