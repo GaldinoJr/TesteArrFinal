@@ -1,8 +1,8 @@
 siteUrl = https://github.com/GaldinoJr/
-gitUrl = https://github.com/GaldinoJr/testeAAR
-version = 0.0.12
-groupId =  com.example
+gitUrl = https://github.com/GaldinoJr/TesteArrFinal
+version = 0.1.0
+groupId =  com.galdinorodrigues
 licenses = ["Apache-2.0"] // or something else
-id = teste3
-repository = aarTest2
+id = aarmodule
+repository = libs
 name = Teste // actually not used
